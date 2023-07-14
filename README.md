@@ -2,14 +2,14 @@
 <h1 align="center">Hi 👋, I'm Dibyajyoti Sahoo</h1>
 
 <br/>
-<h3 align="center">Full Stack Developer | AI Enthusiast </h3>
+<h3 align="center">A Passionate Developer and Open-Source Enthusiast✨</h3>
 
 # About me :mortar_board:
 
-- 🔭 I’m AI Enthusiastic and FullStack Developer with focus on solving real world problems.
-- 🌱 I believe in Passion of Innovation.
-- 👯 I’m ready to collaborate on amazing problem solving startup idea.
-- 💬 Ask me about anything, I am happy to help and contribute to the community growth.
+- 🔭 I’m AI Enthusiastic and FullStack Developer focusing on solving real-world problems.
+- 🌱 I believe in the Passion of Innovation.
+- 👯 I’m ready to collaborate on unique problem-solving startup ideas.
+- 💬 Ask me about anything, I am happy to help and contribute to the community's growth.
 - 📫 How to reach me: dibyajyoti2001@outlook.com
 
 **Languages and Tools:**
